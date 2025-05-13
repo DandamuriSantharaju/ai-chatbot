@@ -1,9 +1,6 @@
 # 🎨 Animation AI Chatbot 🤖
 
-Welcome to the **Animation AI Chatbot** — an Angular-based AI assistant built to respond intelligently to queries focused exclusively on **Cartoons and Animation**. Whether you're curious about anime, classic cartoons, or modern animated films, this chatbot delivers tailored responses using natural language understanding.
-
-![Netlify](https://animationai.netlify.app/)
-![Angular](https://img.shields.io/badge/Angular-Framework-DD0031?style=flat-square&logo=angular&logoColor=white)
+Welcome to the **Animation AI Chatbot** — user interface built using Angular-based AI assistant built to respond intelligently to queries focused exclusively on **Cartoons and Animation**. Whether you're curious about anime, classic cartoons, or modern animated films, this chatbot delivers tailored responses using natural language understanding.
 
 ---
 
@@ -13,13 +10,21 @@ Welcome to the **Animation AI Chatbot** — an Angular-based AI assistant built 
 
 ---
 
-### 📸 Screenshots
+📸 Screenshots
 
 Here’s a look at how the chatbot interacts with users:
 
 ![AI Chatbot Screenshot](src/assets/screenshots/chatbot-demo.png)
 
-### 🛠️ Built With
+🔧 Technologies Used
+- Angular (19.2.1)
+- TypeScript
+- HTML5, CSS3
+- Tailwind
+- API
+
+
+🛠️ Built With
 
 - **Angular** – Frontend SPA Framework
 - **TypeScript** – Strongly typed JavaScript
@@ -28,16 +33,17 @@ Here’s a look at how the chatbot interacts with users:
 
 ---
 
-### 🎯 Features
+🎯 Features
 
 - 🎬 Responds only to **Cartoons & Animation** related questions
 - 🤖 AI integration for human-like interaction
 - 📱 Responsive design using Angular Material or Bootstrap (if used)
 - ⚡ Fast, lightweight, and single-page performance
+- Angular component-based structure
 
 ---
 
-### 📂 Folder Structure
+📂 Folder Structure
 
 ai-chatbot/
 ├── e2e/                     # End-to-End testing folder
@@ -66,7 +72,12 @@ ai-chatbot/
 ├── README.md                 # Project documentation (this file)
 └── tsconfig.json             # TypeScript configuration file
 
-### 📦 Getting Started
+📚 Learning Outcomes
+- Built reusable Angular components
+- Practiced Angular CLI, routing, and service interaction
+- Strengthened understanding of TypeScript and frontend architecture
+  
+📦 Getting Started
 
 To run this project locally:
 
