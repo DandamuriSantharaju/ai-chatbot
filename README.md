@@ -2,7 +2,7 @@
 
 Welcome to the **Animation AI Chatbot** — an Angular-based AI assistant built to respond intelligently to queries focused exclusively on **Cartoons and Animation**. Whether you're curious about anime, classic cartoons, or modern animated films, this chatbot delivers tailored responses using natural language understanding.
 
-![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-blue?style=flat-square)
+![Netlify](https://animationai.netlify.app/)
 ![Angular](https://img.shields.io/badge/Angular-Framework-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ---
